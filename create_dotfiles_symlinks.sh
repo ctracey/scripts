@@ -1,6 +1,9 @@
 #!/bin/bash
-ln -s .bash_profile /Users/christracey/dotfiles/.bash_profile
-ln -s .bashrc /Users/christracey/dotfiles/.bashrc
-ln -s .git-prompt.sh /Users/christracey/dotfiles/.git-prompt.sh
-ln -s .vim /Users/christracey/dotfiles/.vim/
-ln -s .vimrc /Users/christracey/dotfiles/.vimrc
+ln -s /Users/tracer/dotfiles/.bash_profile .bash_profile
+ln -s /Users/tracer/dotfiles/.bashrc .bashrc
+ln -s /Users/tracer/dotfiles/.git-prompt.sh .git-prompt.sh
+ln -s /Users/tracer/dotfiles/.vim/ .vim
+ln -s /Users/tracer/dotfiles/.vimrc .vimrc
+ln -s /Users/tracer/dotfiles/.ackrc .ackrc
+ln -s /Users/tracer/dotfiles/.gitconfig .gitconfig
+ln -s /Users/tracer/dotfiles/.gitignore .gitignore
